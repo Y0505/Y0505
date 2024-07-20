@@ -22,3 +22,5 @@
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
 
 
+- ![PHP](https://raw.githubusercontent.com/{owner}/{repo}/{branch}/path/to/php-icon.png) PHP
+- ![Python](https://raw.githubusercontent.com/{owner}/{repo}/{branch}/path/to/python-icon.png) Python
