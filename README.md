@@ -26,3 +26,6 @@
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
 - ![Sass](https://img.icons8.com/color/48/000000/sass.png) Sass
+- ![Telethon](https://raw.githubusercontent.com/telethon/telethon/master/docs/logo.png) Telethon
+- ![Pyrogram](https://raw.githubusercontent.com/pyrogram/pyrogram/master/docs/logo.png) Pyrogram
+
