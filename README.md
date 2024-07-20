@@ -9,11 +9,13 @@
 
 - [x] Learning JavaScript<br>
 - [x] Enrolled in the Web Package Design course at MFT<br>
+- [x] This project aims to create a website similar to **reymit.ir**.
 
-
 <br>
 <br>
 <br>
+<br>
+<br> 
 
 ## My Skills:
 
