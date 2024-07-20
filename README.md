@@ -19,8 +19,10 @@
 
 ## My Skills:
 
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
-
-
-- ![PHP](https://raw.githubusercontent.com/{owner}/{repo}/{branch}/path/to/php-icon.png) PHP
-- ![Python](https://raw.githubusercontent.com/{owner}/{repo}/{branch}/path/to/python-icon.png) Python
+- ![PHP](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/php-icon.png) PHP
+- ![Python](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/python-icon.png) Python
+- ![Bootstrap](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/bootstrap-icon.png) Bootstrap
+- ![JavaScript](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/javascript-icon.png) JavaScript
+- ![HTML](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/html-icon.png) HTML
+- ![CSS](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/css-icon.png) CSS
+- ![Sass](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/sass-icon.png) Sass
