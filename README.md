@@ -19,10 +19,10 @@
 
 ## My Skills:
 
-- ![PHP](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/php-icon.png) PHP
-- ![Python](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/python-icon.png) Python
-- ![Bootstrap](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/bootstrap-icon.png) Bootstrap
-- ![JavaScript](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/javascript-icon.png) JavaScript
-- ![HTML](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/html-icon.png) HTML
-- ![CSS](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/css-icon.png) CSS
-- ![Sass](https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/sass-icon.png) Sass
+- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![Sass](https://img.icons8.com/color/48/000000/sass.png) Sass
