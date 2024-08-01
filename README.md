@@ -9,7 +9,7 @@
 
 - [x] Learning JavaScript<br>
 - [x] Enrolled in the Web Package Design course at MFT<br>
-- [x] Localization and Translation of Furni Furniture Store Template from [untree.co](https://untree.co/demos/furni/)
+- [x] Localization and Translation of Furni Furniture Store Template from [untree.co/demos/furni](https://untree.co/demos/furni/)
 
 <br>
 <br>
