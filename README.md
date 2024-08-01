@@ -9,7 +9,7 @@
 
 - [x] Learning JavaScript<br>
 - [x] Enrolled in the Web Package Design course at MFT<br>
-- [x] This project aims to create a website similar to `reymit.ir`
+- [x] Localization and Translation of Furni Furniture Store Template from [untree.co](https://untree.co/demos/furni/)
 
 <br>
 <br>
