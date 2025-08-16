@@ -16,8 +16,3 @@
 <br>
 <br>
 <br>
-<br> 
-
-## My Skills:
-
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Sass](https://img.icons8.com/color/48/000000/sass.png) ![PHP](https://img.icons8.com/color/48/000000/php.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
