@@ -9,9 +9,8 @@
 
 - [x] 🔧 Full Stack Developer working with both frontend and backend<br>
 - [x] 🤖 I design and build Telegram bots and I really enjoy doing it<br>
-- [x] 🎨 Frontend development is truly joyful for me<br>
 - [x] 🧠 Curious about AI, learning it and loving it<br>
-- [ ] 📚 Currently learning and growing every day<br>
+- [x] 📚 Currently learning and growing every day<br>
 
 <br>
 <br>
