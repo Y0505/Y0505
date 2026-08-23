@@ -1,16 +1,32 @@
-# Yaser Montazeri
+# Hi, I'm Yaser 👋
 
-#### Full Stack Developer
-<br>
-<br>
-<br>
+### AI Automation Developer | Full-Stack Developer
 
-- [x] 🔧 Full Stack Developer<br>
-- [x] 🤖 I design and build Telegram bots and I really enjoy doing it<br>
-- [x] 🧠 Curious about AI, learning it and loving it<br>
-- [x] 📚 Currently learning and growing every day<br>
+I build AI-powered automation systems, full-stack web applications,
+Telegram Mini Apps, and custom business tools.
 
-<br>
-<br>
-<br>
-<br>
+My focus is turning real business problems into reliable,
+production-oriented digital products.
+
+### What I build
+
+- [x] 🤖 AI-powered automation systems
+- [x] ⚙️ Business workflow automation
+- [x] 🌐 Full-stack web applications
+- [x] 💬 Telegram Bots & Mini Apps
+- [x] 🎮 Interactive web experiences
+- [x] 📊 Custom dashboards & internal tools
+
+### Core Technologies
+
+PHP • TypeScript • JavaScript • Python  
+React • Next.js • Node.js  
+MySQL • Telegram • Discord
+
+### Currently
+
+I'm focusing on AI-driven automation and building practical
+software products that help businesses save time, automate
+repetitive workflows, and operate more efficiently.
+
+### Let's build something useful.
