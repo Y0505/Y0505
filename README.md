@@ -13,7 +13,7 @@ production-oriented digital products.
 - [x] 🤖 AI-powered automation systems
 - [x] ⚙️ Business workflow automation
 - [x] 🌐 Full-stack web applications
-- [x] 💬 Telegram Bots & Mini Apps
+- [x] 💬 Discord & Telegram Bots & Mini Apps
 - [x] 🎮 Interactive web experiences
 - [x] 📊 Custom dashboards & internal tools
 
