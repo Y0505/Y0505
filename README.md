@@ -1,4 +1,4 @@
-# Hi, I'm Yaser 👋
+# Hi, I'm Yaser
 
 ### AI Automation Developer | Full-Stack Developer
 
